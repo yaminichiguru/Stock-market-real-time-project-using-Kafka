@@ -28,10 +28,15 @@ Data Querying:
 
 # Technologies Used
 **Apache Kafka**: For real-time data streaming and handling.
+
 **AWS Boto3**: For scripting AWS service interactions.
+
 **Amazon S3**: For data storage.
+
 **AWS Glue**: For data cataloging and search.
+
 **Amazon Athena**: For executing SQL queries on data stored in S3.
+
 **Amazon EC2**: For hosting Kafka consumers and other processing scripts.
 
 # Setup and Configuration
