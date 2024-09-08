@@ -5,6 +5,8 @@ This project implements a robust data engineering pipeline to simulate and proce
 # Architecture
 The pipeline comprises several components that work together to ensure efficient data flow from production to consumption:
 
+![Architecture Diagram](Architecture.jpg)
+
 # Data Production:
 
 **SDK Boto3:** Utilized the AWS SDK for Python to interact with AWS services, facilitating operations such as data retrieval and storage.
